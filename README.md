@@ -1,0 +1,2 @@
+# servercopy
+host website
