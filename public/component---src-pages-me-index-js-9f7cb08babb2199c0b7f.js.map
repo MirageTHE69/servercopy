@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-me-index-js-9f7cb08babb2199c0b7f.js","mappings":"kIAQA,UANW,WACP,OACI","sources":["webpack://indiaohyes/./src/pages/me/index.js"],"sourcesContent":["import React from 'react';\r\n\r\nconst Me = () => {\r\n    return (\r\n        <h1>Page under construction</h1>\r\n    );\r\n};\r\n\r\nexport default Me;"],"names":[],"sourceRoot":""}

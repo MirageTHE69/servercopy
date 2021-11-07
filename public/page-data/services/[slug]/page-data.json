@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-services-[slug]-js",
+    "path": "/services/[slug]/",
+    "result": {"pageContext":{"matchPath":"/services/:slug"}},
+    "staticQueryHashes": [],
+    "matchPath": "/services/:slug"}
